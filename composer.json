@@ -1,0 +1,13 @@
+{
+    "name": "relbraun/hello_world",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "yiisoft/yii2": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "relbraun\\": "main/"
+        }
+    },
+}
