@@ -1,9 +1,9 @@
 {
     "name": "relbraun/hello_world",
     "description": "A short description of what your package does",
+	"license": "MIT",
     "require": {
-        "php": "^5.3.3 || ^7.0",
-        "yiisoft/yii2": "2.*"
+        "php": "^5.3.3 || ^7.0"
     },
     "autoload": {
         "psr-4": {
